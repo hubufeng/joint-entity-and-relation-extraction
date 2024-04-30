@@ -1,0 +1,2622 @@
+[
+    {
+        "text": "American test pilot Alan Shepard died in California and was born in New Hampshire .",
+        "triple_list": [
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "Shepard",
+                "occupation",
+                "pilot"
+            ],
+            [
+                "Shepard",
+                "birthPlace",
+                "Hampshire"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See , a graduate of University of Texas at Austin , was born in Dallas on July 23 , 1927 , and died in St. Louis .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ],
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See attended the University of Texas in Austin . He became a test pilot . He died in St. Louis on 1966-02-28 .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ],
+            [
+                "See",
+                "occupation",
+                "pilot"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See attended the University of Texas in Austin which is affiliated to the University of Texas system . He died in St Louis which is part of the Kingdom of France .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ],
+            [
+                "Louis",
+                "isPartOf",
+                "France"
+            ]
+        ]
+    },
+    {
+        "text": "The members of Apollo 8 were Buzz Aldrin who was backup pilot , commander Frank Borman and William Anders who retired on September 1st , 1969 .",
+        "triple_list": [
+            [
+                "8",
+                "commander",
+                "Borman"
+            ],
+            [
+                "Anders",
+                "was a crew member of",
+                "8"
+            ],
+            [
+                "8",
+                "backup pilot",
+                "Aldrin"
+            ]
+        ]
+    },
+    {
+        "text": "The 1 Decembrie 1918 University is located in Romania ( capital Bucharest ) . The leader of Romania is Klaus lohannis and the ethnic group is Germans of Romania .",
+        "triple_list": [
+            [
+                "Romania",
+                "ethnicGroup",
+                "Romania"
+            ],
+            [
+                "Romania",
+                "capital",
+                "Bucharest"
+            ],
+            [
+                "University",
+                "country",
+                "Romania"
+            ]
+        ]
+    },
+    {
+        "text": "1634 : The Bavarian Crisis was preceded by 1634 : The Baltic War ( author : David Weber ) and followed by Ring of Fire II which is written in English .",
+        "triple_list": [
+            [
+                "Crisis",
+                "precededBy",
+                "War"
+            ],
+            [
+                "War",
+                "author",
+                "Weber"
+            ],
+            [
+                "Crisis",
+                "followedBy",
+                "II"
+            ]
+        ]
+    },
+    {
+        "text": "Published by Viking Press , the Irish novel A Long Long Way was preceded by Annie Dunne and followed by The Secret Scripture .",
+        "triple_list": [
+            [
+                "Way",
+                "precededBy",
+                "Dunne"
+            ],
+            [
+                "Way",
+                "publisher",
+                "Press"
+            ],
+            [
+                "Way",
+                "followedBy",
+                "Scripture"
+            ]
+        ]
+    },
+    {
+        "text": "A severed Wasp originates from the United States where the leader is Barack Obama . The English language is spoken in the US where one of the ethnic groups is African American .",
+        "triple_list": [
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "States",
+                "language",
+                "language"
+            ],
+            [
+                "Wasp",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "Agra airport is located in Uttar Pradesh ( lead by Ram Naik ) which is part of Awadh and Bundelkhand .",
+        "triple_list": [
+            [
+                "Pradesh",
+                "isPartOf",
+                "Awadh"
+            ],
+            [
+                "Pradesh",
+                "leaderName",
+                "Naik"
+            ],
+            [
+                "Pradesh",
+                "isPartOf",
+                "Bundelkhand"
+            ]
+        ]
+    },
+    {
+        "text": "Al Asad airbase is operated UNK the United States Air Force which carried out the 1986 United States bombing of Libya . Its aircraft fighter is General Dynamics F-16 Fighting Falcon and the Lockheed AC-130 can be found on USAF aircraft carriers .",
+        "triple_list": [
+            [
+                "Force",
+                "attackAircraft",
+                "AC-130"
+            ],
+            [
+                "Force",
+                "aircraftFighter",
+                "Falcon"
+            ],
+            [
+                "Force",
+                "battles",
+                "Libya"
+            ]
+        ]
+    },
+    {
+        "text": "Al Asad airbase is operated by the United States Air Force who participated in the battles during Operation Enduring Freedom . They deploy the Lockheed AC-130 on their aircraft carriers and also make use of the aircraft fighter General Dynamics F-16 Fighting Falcon .",
+        "triple_list": [
+            [
+                "Force",
+                "attackAircraft",
+                "AC-130"
+            ],
+            [
+                "Force",
+                "aircraftFighter",
+                "Falcon"
+            ],
+            [
+                "Force",
+                "battles",
+                "Freedom"
+            ]
+        ]
+    },
+    {
+        "text": "Al Asad airbase is operated by the United States Air Force who took part in the noted battles at the invasion of Grenada . They deploy the Lockheed AC-130 attack aircraft and the General Dynamics F-16 Fighting Falcon as an aircraft fighter .",
+        "triple_list": [
+            [
+                "Force",
+                "battles",
+                "Grenada"
+            ],
+            [
+                "Force",
+                "attackAircraft",
+                "AC-130"
+            ],
+            [
+                "Force",
+                "aircraftFighter",
+                "Falcon"
+            ]
+        ]
+    },
+    {
+        "text": "The city of Amsterdam is served by Amsterdam Airport Schiphol which is -3.3528 metres above sea level . It has a runway length of 2014.0 meters and 06/24 , Kaagbaan , is the runway name .",
+        "triple_list": [
+            [
+                "Schiphol",
+                "cityServed",
+                "Amsterdam"
+            ],
+            [
+                "Schiphol",
+                "runwayLength",
+                "2014.0"
+            ],
+            [
+                "Schiphol",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "-3.3528"
+            ]
+        ]
+    },
+    {
+        "text": "The demonym for the people of Texas is Tejano and the spoken language is English . The state is the location of Andrews County airport and has the capital city of Austin .",
+        "triple_list": [
+            [
+                "Texas",
+                "capital",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "language",
+                "language"
+            ],
+            [
+                "Texas",
+                "demonym",
+                "Tejano"
+            ]
+        ]
+    },
+    {
+        "text": "Appleton International Airport ( in Greenville , Wisconsin ) has an elevation of 280 metres above sea level , serves the city of Appleton , and has a runway length of 2,439 .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Wisconsin"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "Wisconsin"
+            ],
+            [
+                "Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "280"
+            ]
+        ]
+    },
+    {
+        "text": "Adolfo Suarez Madrid-Barajas Airport is operated by ENAIRE , which is located in the city of Madrid , Spain . The Adolfo Suarez Madrid-Barajas Airport is located in Madrid , Paracuellos de Jarama , San Sebastian de los Reyes and Alcobendas .",
+        "triple_list": [
+            [
+                "ENAIRE",
+                "locationCity",
+                "Madrid"
+            ],
+            [
+                "Madrid",
+                "country",
+                "Spain"
+            ],
+            [
+                "Airport",
+                "operatingOrganisation",
+                "ENAIRE"
+            ]
+        ]
+    },
+    {
+        "text": "Michele Marcolini , manager of A.C. Lumezzane , was born in Italy , owns Torino F.C . UNK has been associated with F.C . Bari 1908 .",
+        "triple_list": [
+            [
+                "Lumezzane",
+                "manager",
+                "Marcolini"
+            ],
+            [
+                "Marcolini",
+                "placeOfBirth",
+                "Italy"
+            ],
+            [
+                "Marcolini",
+                "club",
+                "1908"
+            ]
+        ]
+    },
+    {
+        "text": "The fullname of A.S. Gubbio 1910 is Associazione Sportiva Gubbio 1910 Srl and they competed in the 2014 season . Their ground is called the Stadio Pietro Barbetti and they have 5300 members .",
+        "triple_list": [
+            [
+                "1910",
+                "season",
+                "2014"
+            ],
+            [
+                "1910",
+                "ground",
+                "Barbetti"
+            ],
+            [
+                "1910",
+                "numberOfMembers",
+                "5300"
+            ]
+        ]
+    },
+    {
+        "text": "The fullname of A.S. Livorno Calcio is Livorno Calcio S.p.A. and their home ground is the Stadio Armando Picchi . They competed in Serie B during the 2014-15 season and has 19238 members .",
+        "triple_list": [
+            [
+                "Calcio",
+                "ground",
+                "Picchi"
+            ],
+            [
+                "Calcio",
+                "numberOfMembers",
+                "19238"
+            ],
+            [
+                "Calcio",
+                "season",
+                "B"
+            ]
+        ]
+    },
+    {
+        "text": "A.S. Roma 's fullname is Associazione Sportiva Roma S.p.A. and they have 70634 members . Their ground is in Rome and the club played in Serie A in 2014-15 .",
+        "triple_list": [
+            [
+                "Roma",
+                "numberOfMembers",
+                "70634"
+            ],
+            [
+                "Roma",
+                "ground",
+                "Rome"
+            ],
+            [
+                "Roma",
+                "season",
+                "A"
+            ]
+        ]
+    },
+    {
+        "text": "AgremiaÃ§Ã£o Sportiva Arapiraquense , which has the nickname Asa Gigante , play in the Campeonato Brasileiro SÃ©rie C league from Brazil . The league was previously won by Vila Nova Futebol Clube .",
+        "triple_list": [
+            [
+                "Arapiraquense",
+                "league",
+                "C"
+            ],
+            [
+                "C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "C",
+                "champions",
+                "Clube"
+            ]
+        ]
+    },
+    {
+        "text": "Brazilian football team AgremiaÃ§Ã£o Sportiva Arapiraquense play their football in the Campeonato Brasileiro SÃ©rie C league . Campeonato Brasileiro Serie C is a Brazilian league . AgremiaÃ§Ã£o Sportiva Arapiraquense competed in the 2015 Campeonato Brasileiro SÃ©rie C. The Vila Nova Futebol Clube were the winners at the Campeonato Brasileiro SÃ©rie C .",
+        "triple_list": [
+            [
+                "Arapiraquense",
+                "league",
+                "C"
+            ],
+            [
+                "Arapiraquense",
+                "season",
+                "C"
+            ],
+            [
+                "C",
+                "champions",
+                "Clube"
+            ]
+        ]
+    },
+    {
+        "text": "3000 member strong Akron Summit Assault , fullname `` Akron Metro Futbol Club Summit Assault '' , play in the 2011 PDL season . Denzil Antonio was previously their manager .",
+        "triple_list": [
+            [
+                "Assault",
+                "numberOfMembers",
+                "3000"
+            ],
+            [
+                "Assault",
+                "manager",
+                "Antonio"
+            ],
+            [
+                "Assault",
+                "season",
+                "season"
+            ]
+        ]
+    },
+    {
+        "text": "With the capital of Cape Town , South Africa is the location of 11 Diagonal Street and has the ethnic groups of Asian South Africans and white South Africans .",
+        "triple_list": [
+            [
+                "Street",
+                "location",
+                "Africa"
+            ],
+            [
+                "Africa",
+                "ethnicGroup",
+                "Africans"
+            ],
+            [
+                "Africa",
+                "capital",
+                "Town"
+            ]
+        ]
+    },
+    {
+        "text": "Adisham Hall is located in Haputale , Sri Lanka which has the capital city of Sri Jayawardenepura Kotte . Tamil is the language of the country .",
+        "triple_list": [
+            [
+                "Hall",
+                "country",
+                "Lanka"
+            ],
+            [
+                "Lanka",
+                "capital",
+                "Kotte"
+            ],
+            [
+                "Lanka",
+                "language",
+                "language"
+            ]
+        ]
+    },
+    {
+        "text": "The Mason School of Business is located in the US and they are the current tenants of Alan B Miller Hall . Robert A.M. Stern is the architect for Alan B. Miller Hall , which is situated in Virginia .",
+        "triple_list": [
+            [
+                "Hall",
+                "location",
+                "Virginia"
+            ],
+            [
+                "Hall",
+                "architect",
+                "Stern"
+            ],
+            [
+                "Hall",
+                "currentTenants",
+                "Business"
+            ]
+        ]
+    },
+    {
+        "text": "UNK in Virginia , United States , , Alan B. Miller Hall was completed on 1st June 2009 . The current tenants are the Mason School of Business .",
+        "triple_list": [
+            [
+                "Hall",
+                "location",
+                "Virginia"
+            ],
+            [
+                "Business",
+                "country",
+                "States"
+            ],
+            [
+                "Hall",
+                "currentTenants",
+                "Business"
+            ]
+        ]
+    },
+    {
+        "text": "The address for Amdavad ni Gufa is Lalbhai Dalpatbhai Campus , near CEPT University , opp . Gujarat University , University Road , Gujarat , Ahmedabad , India .",
+        "triple_list": [
+            [
+                "Gufa",
+                "location",
+                "Gujarat"
+            ],
+            [
+                "Gufa",
+                "country",
+                "India"
+            ],
+            [
+                "Gufa",
+                "location",
+                "Ahmedabad"
+            ]
+        ]
+    },
+    {
+        "text": "San Francisco born architect Julia Morgan designed many significant buildings including the Asilomar Conference Grounds , the Los Angeles Herald Examiner Building and the Asilomar State Beach .",
+        "triple_list": [
+            [
+                "Grounds",
+                "architect",
+                "Morgan"
+            ],
+            [
+                "Morgan",
+                "birthPlace",
+                "Francisco"
+            ],
+            [
+                "Morgan",
+                "significantBuilding",
+                "Beach"
+            ]
+        ]
+    },
+    {
+        "text": "Asser Levy Public Baths are in New York City , U.S. which is part of Manhattan . New York City was part of New Netherland .",
+        "triple_list": [
+            [
+                "Baths",
+                "location",
+                "City"
+            ],
+            [
+                "City",
+                "isPartOf",
+                "Manhattan"
+            ],
+            [
+                "City",
+                "isPartOf",
+                "Netherland"
+            ]
+        ]
+    },
+    {
+        "text": "The 11th Mississippi Infantry Monument is a Contributing Property located in Adams County , Pennsylvania , with Franklin County to its west and Carrol County , Maryland to its southeast .",
+        "triple_list": [
+            [
+                "Pennsylvania",
+                "has to its west",
+                "Pennsylvania"
+            ],
+            [
+                "Pennsylvania",
+                "has to its southeast",
+                "Maryland"
+            ],
+            [
+                "Monument",
+                "location",
+                "Pennsylvania"
+            ]
+        ]
+    },
+    {
+        "text": "The Baku Turkish Martyrs ' Memorial , which is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku , is located in Azerbaijan , where the official leader ( Prime Minister of Azerbaijan ) is called Artur Rasizade .",
+        "triple_list": [
+            [
+                "Azerbaijan",
+                "leaderTitle",
+                "Azerbaijan"
+            ],
+            [
+                "Memorial",
+                "location",
+                "Azerbaijan"
+            ],
+            [
+                "Azerbaijan",
+                "leaderName",
+                "Rasizade"
+            ]
+        ]
+    },
+    {
+        "text": "Bread , almonds , garlic , water , and olive oil are the main ingredients in Ajoblanco , a food which originates from Andalusia , in Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Bread"
+            ]
+        ]
+    },
+    {
+        "text": "Water is an ingredient in Ajoblanco , also known as Ajo blanco , a dish that comes from Andalusia Spain .",
+        "triple_list": [
+            [
+                "Ajoblanco",
+                "country",
+                "Spain"
+            ],
+            [
+                "Ajoblanco",
+                "region",
+                "Andalusia"
+            ],
+            [
+                "Ajoblanco",
+                "ingredient",
+                "Water"
+            ]
+        ]
+    },
+    {
+        "text": "Arros Negre is a traditional dish from the Catalonia region of Spain . The main ingredients of Arros negre are white rice , cuttlefish or squid , cephalopod ink , and cubanelle peppers .",
+        "triple_list": [
+            [
+                "negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "negre",
+                "ingredient",
+                "ink"
+            ]
+        ]
+    },
+    {
+        "text": "Bacon sandwich is a dish from the United Kingdom and a variation is the BLT . An ingredient used is brown sauce and it 's different names include Bacon butty , bacon sarnie , rasher sandwich , bacon sanger , piece 'n bacon , bacon cob , bacon barm and bacon muffin .",
+        "triple_list": [
+            [
+                "sandwich",
+                "dishVariation",
+                "BLT"
+            ],
+            [
+                "sandwich",
+                "country",
+                "Kingdom"
+            ],
+            [
+                "sandwich",
+                "ingredient",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "text": "The bakewell tart is popular in the Derbyshire Dales area which is part of Derbyshire . It 's a variant of bakewell pudding and uses frangipane .",
+        "triple_list": [
+            [
+                "pudding",
+                "dishVariation",
+                "tart"
+            ],
+            [
+                "tart",
+                "region",
+                "Dales"
+            ],
+            [
+                "Dales",
+                "isPartOf",
+                "Derbyshire"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is known to come from the Singapore region and also Indonesia . It 's main ingredients are Kway teow , beef tender loin , gula Melaka , sliced , dried black beans , garlic , dark soy sauce , lengkuas , oyster sauce , soya sauce , chilli and sesame oil .",
+        "triple_list": [
+            [
+                "teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "teow",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "teow",
+                "ingredient",
+                "sauce"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow comes from the Singapore region where The English language is spoken . The dish is found in the countries of Indonesia and Singapore . The leader of Singapore is Tony Tan .",
+        "triple_list": [
+            [
+                "teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "language",
+                "language"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tan"
+            ]
+        ]
+    },
+    {
+        "text": "Sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut are the main ingredients in Bionico , a food found in Guadalajara , in Mexico .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Guadalajara"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "milk"
+            ]
+        ]
+    },
+    {
+        "text": "Bionico is a food found in the Jalisco region of Mexico ; its ingredients contain the following : sour cream , chopped fruits , condensed milk . granola , raisins and shredded coconut .",
+        "triple_list": [
+            [
+                "Bionico",
+                "country",
+                "Mexico"
+            ],
+            [
+                "Bionico",
+                "region",
+                "Jalisco"
+            ],
+            [
+                "Bionico",
+                "ingredient",
+                "cream"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso is a Chinese dish found in Indonesia , the leader of which is Jusuf Kalla . Jakarta is the capital of Indonesia .",
+        "triple_list": [
+            [
+                "Indonesia",
+                "capital",
+                "Jakarta"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Kalla"
+            ],
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso comes from Indonesia , and celery is a main ingredient . UNK Kalla is a leader in Indonesia .",
+        "triple_list": [
+            [
+                "Indonesia",
+                "leaderName",
+                "Kalla"
+            ],
+            [
+                "Bakso",
+                "region",
+                "Indonesia"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "The language spoken in the Philippines is Philippine Spanish and batchoy is eaten there . Ethnic groups include the llocano people and the Moro people .",
+        "triple_list": [
+            [
+                "Philippines",
+                "ethnicGroup",
+                "people"
+            ],
+            [
+                "Philippines",
+                "language",
+                "Spanish"
+            ],
+            [
+                "Philippines",
+                "ethnicGroup",
+                "people"
+            ]
+        ]
+    },
+    {
+        "text": "The United States is home to the ethnic group of African Americans and is lead by Barack Obama . The country is the origin of the book Alcatraz Versus the Evil Librarians . This book was written in English , as spoken in Great Britain .",
+        "triple_list": [
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "Librarians",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ]
+        ]
+    },
+    {
+        "text": "English is spoken in Great Britain and the United States where Joe Biden is leader , African Americans are an ethnic group and Alcatraz Versus the Evil Librarians is from there .",
+        "triple_list": [
+            [
+                "States",
+                "leaderName",
+                "Biden"
+            ],
+            [
+                "Librarians",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ]
+        ]
+    },
+    {
+        "text": "The leaders of the United Kingdom are Elizabeth II and David Cameron . The AIDS journal is published in the United Kingdom by Lippincott , Williams & Wilkins , whose parent company is Wolters Kluwer .",
+        "triple_list": [
+            [
+                "Kingdom",
+                "leaderName",
+                "II"
+            ],
+            [
+                "Kingdom",
+                "leaderName",
+                "Cameron"
+            ],
+            [
+                "Wilkins",
+                "parentCompany",
+                "Kluwer"
+            ]
+        ]
+    },
+    {
+        "text": "Adisham Hall is located in Haputale , Sri Lanka . The capital of Sri Lanka is Sri Jayawardenepura Kotte , the language used in the country is Tamil and the currency is the Sri Lankan Rupee .",
+        "triple_list": [
+            [
+                "Hall",
+                "country",
+                "Lanka"
+            ],
+            [
+                "Lanka",
+                "capital",
+                "Kotte"
+            ],
+            [
+                "Lanka",
+                "language",
+                "language"
+            ]
+        ]
+    },
+    {
+        "text": "Julia Morgan , who was born in California , designed the Asilomar Conference Grounds , the Los Angeles Herald examiner building , The Riverside Art Musuem and Hearst Castle .",
+        "triple_list": [
+            [
+                "Grounds",
+                "architect",
+                "Morgan"
+            ],
+            [
+                "Morgan",
+                "significantProject",
+                "Castle"
+            ],
+            [
+                "Morgan",
+                "birthPlace",
+                "California"
+            ]
+        ]
+    },
+    {
+        "text": "The 11th Mississippi Infantry monument is located in the municipality of Gettysburg , Adams County , Pennsylvania . Adams County is east of Franklin County and south of Cumberland County . Maryland 's Carrol county is located to the southeast .",
+        "triple_list": [
+            [
+                "Pennsylvania",
+                "has to its west",
+                "Pennsylvania"
+            ],
+            [
+                "Pennsylvania",
+                "has to its southeast",
+                "Maryland"
+            ],
+            [
+                "Pennsylvania",
+                "has to its north",
+                "Pennsylvania"
+            ]
+        ]
+    },
+    {
+        "text": "English speaking Singapore , led by Tony Tan and Halimah Yacob , offers the dish Beef kway teow , also found in Indonesia .",
+        "triple_list": [
+            [
+                "teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tan"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "Philippines is the country the dish Batchoy comes from . The llocano and Igorot peoples are ethnic groups from the Philippines , where languages spoken include Arabic and Phillippine English .",
+        "triple_list": [
+            [
+                "Philippines",
+                "language",
+                "Arabic"
+            ],
+            [
+                "Philippines",
+                "officialLanguage",
+                "English"
+            ],
+            [
+                "Batchoy",
+                "country",
+                "Philippines"
+            ]
+        ]
+    },
+    {
+        "text": "Available nationwide in Indonesia and Singapore , Beef kway teow is a dish which comes from Singapore , where English is spoken . It is also where two of the leaders are Halimah Yacob and Tony Tan .",
+        "triple_list": [
+            [
+                "teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tan"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "With a runway length of 2194.0 , Abilene regional airport serves UNK , part of Jones County , Texas , in the United States .",
+        "triple_list": [
+            [
+                "Texas",
+                "isPartOf",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "country",
+                "States"
+            ],
+            [
+                "Texas",
+                "isPartOf",
+                "Texas"
+            ]
+        ]
+    },
+    {
+        "text": "Serving the city of Abilene in Texas , is Abilene Regional Airport . It has the ICAO location identifier KABI and the runway name 17R/35L . The airport is 546 metres above sea level and has a runway length of 2194.0 .",
+        "triple_list": [
+            [
+                "Airport",
+                "cityServed",
+                "Texas"
+            ],
+            [
+                "Airport",
+                "runwayLength",
+                "2194.0"
+            ],
+            [
+                "Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "546"
+            ]
+        ]
+    },
+    {
+        "text": "Agra Airport is in Uttar Pradesh Bundelkhand , it 's ICAO location identifier is VIAG . the leader of UNK Pradesh is Ram Naik .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Pradesh"
+            ],
+            [
+                "Pradesh",
+                "leaderName",
+                "Naik"
+            ],
+            [
+                "Pradesh",
+                "isPartOf",
+                "Bundelkhand"
+            ]
+        ]
+    },
+    {
+        "text": "Ram Naik is the leader of Uttar Pradesh which is part of Awadh and Bundelkhand . It is the location of Agra airport which has the native name of Kheria Air Force Station .",
+        "triple_list": [
+            [
+                "Pradesh",
+                "isPartOf",
+                "Awadh"
+            ],
+            [
+                "Pradesh",
+                "leaderName",
+                "Naik"
+            ],
+            [
+                "Pradesh",
+                "isPartOf",
+                "Bundelkhand"
+            ]
+        ]
+    },
+    {
+        "text": "Located in Texas , and serving Andrews , is Andrews County Airport . The airport is 973.0 below sea level , has a runway length of 896 , and a runway with the name 11/29 .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Texas"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "Texas"
+            ],
+            [
+                "Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "973.0"
+            ]
+        ]
+    },
+    {
+        "text": "Andrews County Airport is in Texas in the U.S.A. where Spanish is one of the languages spoken . Houston is the largest city in the state and its capital is Austin .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "largestCity",
+                "Houston"
+            ],
+            [
+                "Texas",
+                "capital",
+                "Texas"
+            ]
+        ]
+    },
+    {
+        "text": "Houston is the largest city in Texas , where Austin is the Capital city . Andrews County Airport is located in Texas and Some UNK can speak Spanish .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "largestCity",
+                "Houston"
+            ],
+            [
+                "Texas",
+                "capital",
+                "Texas"
+            ]
+        ]
+    },
+    {
+        "text": "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville , Wisconsin . The runway at the airport is 3/21 and is 2439 in length .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Wisconsin"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "Wisconsin"
+            ],
+            [
+                "Airport",
+                "elevationAboveTheSeaLevel_(in_metres)",
+                "280"
+            ]
+        ]
+    },
+    {
+        "text": "The Acharya Institute of Technology is located at In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore â€ “ 560090 , India . The School was established in 2000 and has 700 Postgraduate Students .",
+        "triple_list": [
+            [
+                "Technology",
+                "city",
+                "Bangalore"
+            ],
+            [
+                "Technology",
+                "established",
+                "2000"
+            ],
+            [
+                "Technology",
+                "numberOfPostgraduateStudents",
+                "700"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Shepard , born in New Hampshire , has died in California . After graduating from NWC , MA in 1957 he served as a test pilot .",
+        "triple_list": [
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "Shepard",
+                "occupation",
+                "pilot"
+            ],
+            [
+                "Shepard",
+                "birthPlace",
+                "Hampshire"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See , a graduate of the University of Texas at Austin , passed away on 28th February 1966 in St. Louis . He was born in Dallas .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ],
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born in Dallas and studied at the University of Texas in Austin ( which is affiliated to the university of Texas system ) . He died in St. Louis .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ]
+        ]
+    },
+    {
+        "text": "A.C. Cesena , in the Serie B League , has 23900 members and is located is Cesena .",
+        "triple_list": [
+            [
+                "Cesena",
+                "ground",
+                "Cesena"
+            ],
+            [
+                "Cesena",
+                "league",
+                "B"
+            ],
+            [
+                "Cesena",
+                "numberOfMembers",
+                "23900"
+            ]
+        ]
+    },
+    {
+        "text": "Massimo Drago played for the club SSD Potenza Calcio and his own club was Calcio Catania . He is currently managing AC Cesena .",
+        "triple_list": [
+            [
+                "Cesena",
+                "manager",
+                "Drago"
+            ],
+            [
+                "Drago",
+                "club",
+                "Calcio"
+            ],
+            [
+                "Drago",
+                "club",
+                "Catania"
+            ]
+        ]
+    },
+    {
+        "text": "The A.E Dimitra Efxeinoupolis club is located in Greece , where there are leaders called Nikos Voutsis and Prokopis Pavlopoulos .",
+        "triple_list": [
+            [
+                "Efxeinoupolis",
+                "location",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Voutsis"
+            ],
+            [
+                "Greece",
+                "leader",
+                "Pavlopoulos"
+            ]
+        ]
+    },
+    {
+        "text": "AZAL PFK play their home matches at the AZAL Arena , and are in the Azerbaijan Premier League , who 's UNK name is the Qarabag FK .",
+        "triple_list": [
+            [
+                "PFK",
+                "league",
+                "League"
+            ],
+            [
+                "League",
+                "champions",
+                "FK"
+            ],
+            [
+                "PFK",
+                "ground",
+                "Arena"
+            ]
+        ]
+    },
+    {
+        "text": "AgremiaÃ§Ã£o Sportiva Arapiraquense play at their ground Estadio Minicipal Coaracy da Mata Fonseca in the Campeonato Brasileiro SÃ©rie C league . The champions of this league are Vila Nova Futebol Clube .",
+        "triple_list": [
+            [
+                "Arapiraquense",
+                "league",
+                "C"
+            ],
+            [
+                "Arapiraquense",
+                "ground",
+                "Fonseca"
+            ],
+            [
+                "C",
+                "champions",
+                "Clube"
+            ]
+        ]
+    },
+    {
+        "text": "AgremiaÃ§Ã£o Sportiva Arapiraquense play in the Campeonato Brasileiro SÃ©rie C league in Brazil . Vila Nova Futebol Clube are the champions of this league .",
+        "triple_list": [
+            [
+                "Arapiraquense",
+                "league",
+                "C"
+            ],
+            [
+                "C",
+                "country",
+                "Brazil"
+            ],
+            [
+                "C",
+                "champions",
+                "Clube"
+            ]
+        ]
+    },
+    {
+        "text": "St Vincent-St Mary High School is the ground of Akron Summit Assault who play in the Premier Development League , of which K-W United FC have been champions .",
+        "triple_list": [
+            [
+                "Assault",
+                "ground",
+                "School"
+            ],
+            [
+                "Assault",
+                "league",
+                "League"
+            ],
+            [
+                "League",
+                "champions",
+                "FC"
+            ]
+        ]
+    },
+    {
+        "text": "K-W United FC were champions of the Premier Development League where Akron Summit Assault ( which has 3000 members ) also play .",
+        "triple_list": [
+            [
+                "Assault",
+                "numberOfMembers",
+                "3000"
+            ],
+            [
+                "Assault",
+                "league",
+                "League"
+            ],
+            [
+                "League",
+                "champions",
+                "FC"
+            ]
+        ]
+    },
+    {
+        "text": "Born in Burbank , California , Eric Flint wrote 1634 : The Bavarian Crisis which was preceded by 1634 : The Baltic War .",
+        "triple_list": [
+            [
+                "Crisis",
+                "author",
+                "Flint"
+            ],
+            [
+                "Crisis",
+                "precededBy",
+                "War"
+            ],
+            [
+                "Flint",
+                "birthPlace",
+                "California"
+            ]
+        ]
+    },
+    {
+        "text": "A Long Long Way ( followed by the book The Secret Scripture ) is written in the English language , which is spoken in Great Britain .",
+        "triple_list": [
+            [
+                "Way",
+                "language",
+                "language"
+            ],
+            [
+                "language",
+                "spokenIn",
+                "Britain"
+            ],
+            [
+                "Way",
+                "followedBy",
+                "Scripture"
+            ]
+        ]
+    },
+    {
+        "text": "A Loyal Character Dancer was published by Soho Press in the United States , which counts African Americans among its ethnic groups .",
+        "triple_list": [
+            [
+                "Dancer",
+                "publisher",
+                "Press"
+            ],
+            [
+                "Dancer",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ]
+        ]
+    },
+    {
+        "text": "A Loyal Character Dancer was published by Soho Press in the United States where Barack Obama is the leader .",
+        "triple_list": [
+            [
+                "Dancer",
+                "publisher",
+                "Press"
+            ],
+            [
+                "Press",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ]
+        ]
+    },
+    {
+        "text": "A Fortress of Grey Ice is from the United States where Barack Obama is the leader and the African Americans are one of the ethnic groups .",
+        "triple_list": [
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ],
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "Ice",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "In the United States , English is the language , Asian Americans are an ethnic group and the book Alcatraz versus the Evil Librarians was written .",
+        "triple_list": [
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ],
+            [
+                "States",
+                "language",
+                "language"
+            ],
+            [
+                "Librarians",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "The Accademia di Architettura di Mendrisio is in Switzerland . Its dean is Mario Botta and it has 600 students .",
+        "triple_list": [
+            [
+                "Mendrisio",
+                "country",
+                "Switzerland"
+            ],
+            [
+                "Mendrisio",
+                "dean",
+                "Botta"
+            ],
+            [
+                "Mendrisio",
+                "numberOfStudents",
+                "600"
+            ]
+        ]
+    },
+    {
+        "text": "The Acharya UNK of Technology offers tennis and it was established in 2000 . The tennis governing body is the International Tennis Federation .",
+        "triple_list": [
+            [
+                "Technology",
+                "sportsOffered",
+                "Tennis"
+            ],
+            [
+                "Technology",
+                "established",
+                "2000"
+            ],
+            [
+                "Tennis",
+                "sportsGoverningBody",
+                "Federation"
+            ]
+        ]
+    },
+    {
+        "text": "AWH Engineering College is in India . Mumbai is the largest city in India . The river Ganges runs through India .",
+        "triple_list": [
+            [
+                "India",
+                "largestCity",
+                "Mumbai"
+            ],
+            [
+                "College",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "river",
+                "Ganges"
+            ]
+        ]
+    },
+    {
+        "text": "Tony Hall , Baron Hall of Birkenhead , is a key person at the BBC which is located in London and broadcast Bananaman .",
+        "triple_list": [
+            [
+                "BBC",
+                "keyPerson",
+                "Birkenhead"
+            ],
+            [
+                "Bananaman",
+                "broadcastedBy",
+                "BBC"
+            ],
+            [
+                "BBC",
+                "locationCity",
+                "London"
+            ]
+        ]
+    },
+    {
+        "text": "Abilene Regional Airport serves the city of Abilene which is part of Taylor County , Texas , in the United States .",
+        "triple_list": [
+            [
+                "Airport",
+                "cityServed",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "isPartOf",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "Adirondack Regional Airport has a runway length of 1219.0 and serves the cities of Saranac Lake and Lake Placid , New York .",
+        "triple_list": [
+            [
+                "Airport",
+                "runwayLength",
+                "1219.0"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "York"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "York"
+            ]
+        ]
+    },
+    {
+        "text": "Operated by the United States Air Force , Al Asad Airbase , in Iraq , has a runway length of 3078.48 metres .",
+        "triple_list": [
+            [
+                "Airbase",
+                "operatingOrganisation",
+                "Force"
+            ],
+            [
+                "Airbase",
+                "location",
+                "Iraq"
+            ],
+            [
+                "Airbase",
+                "runwayLength",
+                "3078.48"
+            ]
+        ]
+    },
+    {
+        "text": "Al Asad Airbase is operated by the United States Air Force which has the Invasion of Grenada as one of its noted battles as well as The Operation Enduring Freedom .",
+        "triple_list": [
+            [
+                "Airbase",
+                "operatingOrganisation",
+                "Force"
+            ],
+            [
+                "Force",
+                "battles",
+                "Grenada"
+            ],
+            [
+                "Force",
+                "battles",
+                "Freedom"
+            ]
+        ]
+    },
+    {
+        "text": "The 1st runway at Alderney Airport is made from Poaceae and has a length of 733.0 .",
+        "triple_list": [
+            [
+                "Airport",
+                "1st_runway_SurfaceType",
+                "Poaceae"
+            ],
+            [
+                "Airport",
+                "runwayLength",
+                "733.0"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "Alderney"
+            ]
+        ]
+    },
+    {
+        "text": "Andrews County Airport is located in Texas ( United States ) , where Houston is the largest city .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Texas"
+            ],
+            [
+                "Texas",
+                "largestCity",
+                "Houston"
+            ],
+            [
+                "Texas",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "The Appleton International Airport is in Greenville which is part of Clayton Winnebago County , Wisconsin , in the United States .",
+        "triple_list": [
+            [
+                "Airport",
+                "location",
+                "Wisconsin"
+            ],
+            [
+                "Wisconsin",
+                "country",
+                "States"
+            ],
+            [
+                "Wisconsin",
+                "isPartOf",
+                "Wisconsin"
+            ]
+        ]
+    },
+    {
+        "text": "The Athens International Airport serves the city of Athens , in Greece where Alexis Tsipras is the leader .",
+        "triple_list": [
+            [
+                "Airport",
+                "cityServed",
+                "Athens"
+            ],
+            [
+                "Athens",
+                "country",
+                "Greece"
+            ],
+            [
+                "Greece",
+                "leaderName",
+                "Tsipras"
+            ]
+        ]
+    },
+    {
+        "text": "Antwerp International Airport serves the city of Antwerp in Belgium where the leader is Phillipe of Belgium .",
+        "triple_list": [
+            [
+                "Belgium",
+                "leaderName",
+                "Belgium"
+            ],
+            [
+                "Airport",
+                "cityServed",
+                "Antwerp"
+            ],
+            [
+                "Antwerp",
+                "country",
+                "Belgium"
+            ]
+        ]
+    },
+    {
+        "text": "11 Diagonal Street is located in South Africa ( Cyril Ramaphosa is one of the leaders ) , the capital of which is Cape Town .",
+        "triple_list": [
+            [
+                "Street",
+                "location",
+                "Africa"
+            ],
+            [
+                "Africa",
+                "capital",
+                "Town"
+            ],
+            [
+                "Africa",
+                "leaderName",
+                "Ramaphosa"
+            ]
+        ]
+    },
+    {
+        "text": "Frank G Jackson is the leader of Cleveland , United States where 200 Public Square is located .",
+        "triple_list": [
+            [
+                "Square",
+                "location",
+                "Cleveland"
+            ],
+            [
+                "Cleveland",
+                "leaderName",
+                "Jackson"
+            ],
+            [
+                "Cleveland",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "250 Delaware Avenue is located in Buffalo , Erie County , New York .",
+        "triple_list": [
+            [
+                "Avenue",
+                "location",
+                "York"
+            ],
+            [
+                "York",
+                "isPartOf",
+                "York"
+            ],
+            [
+                "York",
+                "isPartOf",
+                "York"
+            ]
+        ]
+    },
+    {
+        "text": "300 North LaSalle is located in Chicago ( the leader of which is Rahm Emanuel ) , United States .",
+        "triple_list": [
+            [
+                "LaSalle",
+                "location",
+                "Chicago"
+            ],
+            [
+                "Chicago",
+                "leaderName",
+                "Emanuel"
+            ],
+            [
+                "Chicago",
+                "country",
+                "States"
+            ]
+        ]
+    },
+    {
+        "text": "The owner of 3Arena is Live Nation Entertainment which is located in Dublin , Ireland .",
+        "triple_list": [
+            [
+                "3Arena",
+                "owner",
+                "Entertainment"
+            ],
+            [
+                "Dublin",
+                "country",
+                "Ireland"
+            ],
+            [
+                "3Arena",
+                "location",
+                "Dublin"
+            ]
+        ]
+    },
+    {
+        "text": "Marriott International is the tenant of the AC Hotel Bella Sky Copenhagen , Denmark , which was designed by the architects of the 3XN firm .",
+        "triple_list": [
+            [
+                "Copenhagen",
+                "location",
+                "Denmark"
+            ],
+            [
+                "Copenhagen",
+                "tenant",
+                "International"
+            ],
+            [
+                "Copenhagen",
+                "architect",
+                "3XN"
+            ]
+        ]
+    },
+    {
+        "text": "James Pain was the architect of Adare Manor which was completed in 1862 and is owned by J P McManus .",
+        "triple_list": [
+            [
+                "Manor",
+                "completionDate",
+                "1862"
+            ],
+            [
+                "Manor",
+                "architect",
+                "Pain"
+            ],
+            [
+                "Manor",
+                "owner",
+                "McManus"
+            ]
+        ]
+    },
+    {
+        "text": "Robert Gates is the chancellor of The College of William and Mary which is owned by Alan B Miller Hall and is located in Virginia .",
+        "triple_list": [
+            [
+                "Hall",
+                "location",
+                "Virginia"
+            ],
+            [
+                "Hall",
+                "owner",
+                "Mary"
+            ],
+            [
+                "Mary",
+                "chancellor",
+                "Gates"
+            ]
+        ]
+    },
+    {
+        "text": "The 476 bed Ampara Hospital is located in Ampara District , Sri Lanka .",
+        "triple_list": [
+            [
+                "Hospital",
+                "country",
+                "Lanka"
+            ],
+            [
+                "Hospital",
+                "region",
+                "District"
+            ],
+            [
+                "Hospital",
+                "bedCount",
+                "476"
+            ]
+        ]
+    },
+    {
+        "text": "Ampara Hospital is in Eastern Province , Sri Lanka . Ranil Wickremesinghe is a leader there .",
+        "triple_list": [
+            [
+                "Hospital",
+                "country",
+                "Lanka"
+            ],
+            [
+                "Lanka",
+                "leaderName",
+                "Wickremesinghe"
+            ],
+            [
+                "Hospital",
+                "state",
+                "Lanka"
+            ]
+        ]
+    },
+    {
+        "text": "T S Thakur and Sumitra Mahajan are leaders in India where Amdavad ni Gufa is located .",
+        "triple_list": [
+            [
+                "India",
+                "leaderName",
+                "Thakur"
+            ],
+            [
+                "Gufa",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Mahajan"
+            ]
+        ]
+    },
+    {
+        "text": "Arrabbiata sauce , a traditional dish from Rome in Italy , has chili pepper as one of its important ingredients .",
+        "triple_list": [
+            [
+                "sauce",
+                "ingredient",
+                "pepper"
+            ],
+            [
+                "sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "sauce",
+                "region",
+                "Rome"
+            ]
+        ]
+    },
+    {
+        "text": "Garlic is an ingredient in arrabbiata sauce which originates from the region of Rome , in Italy .",
+        "triple_list": [
+            [
+                "sauce",
+                "ingredient",
+                "Garlic"
+            ],
+            [
+                "sauce",
+                "country",
+                "Italy"
+            ],
+            [
+                "sauce",
+                "region",
+                "Rome"
+            ]
+        ]
+    },
+    {
+        "text": "Arros negre contains UNK and comes from the Catalonia region of Spain .",
+        "triple_list": [
+            [
+                "negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "negre",
+                "region",
+                "Catalonia"
+            ],
+            [
+                "negre",
+                "ingredient",
+                "UNK"
+            ]
+        ]
+    },
+    {
+        "text": "Cuttlefish is an ingredient in ArrÃ²s negre which comes from the region of the Valencian Community , in Spain .",
+        "triple_list": [
+            [
+                "negre",
+                "region",
+                "Community"
+            ],
+            [
+                "negre",
+                "country",
+                "Spain"
+            ],
+            [
+                "negre",
+                "ingredient",
+                "Cuttlefish"
+            ]
+        ]
+    },
+    {
+        "text": "The United States is the country of Bacon Explosion . Barack Obama is the leader and Washington D.C. is the capital .",
+        "triple_list": [
+            [
+                "Explosion",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "leaderName",
+                "Obama"
+            ],
+            [
+                "States",
+                "capital",
+                "D.C."
+            ]
+        ]
+    },
+    {
+        "text": "The Bacon Explosion originated in the United States , where African Americans are an ethnic group and John Roberts is a leader .",
+        "triple_list": [
+            [
+                "Explosion",
+                "country",
+                "States"
+            ],
+            [
+                "States",
+                "leaderName",
+                "Roberts"
+            ],
+            [
+                "States",
+                "ethnicGroup",
+                "Americans"
+            ]
+        ]
+    },
+    {
+        "text": "Meringue is an ingredient of a Baked Alaska , which is from the New York region and France .",
+        "triple_list": [
+            [
+                "Alaska",
+                "country",
+                "France"
+            ],
+            [
+                "Alaska",
+                "region",
+                "York"
+            ],
+            [
+                "Alaska",
+                "ingredient",
+                "Meringue"
+            ]
+        ]
+    },
+    {
+        "text": "Sponge cake is one of the ingredients in Baked Alaska , a dish from the New York region and found in the United States .",
+        "triple_list": [
+            [
+                "Alaska",
+                "country",
+                "States"
+            ],
+            [
+                "Alaska",
+                "region",
+                "York"
+            ],
+            [
+                "Alaska",
+                "ingredient",
+                "cake"
+            ]
+        ]
+    },
+    {
+        "text": "Barny Cakes come from France where Gerard Larcher and Claude Bartolone are leaders .",
+        "triple_list": [
+            [
+                "Cakes",
+                "country",
+                "France"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Larcher"
+            ],
+            [
+                "France",
+                "leaderName",
+                "Bartolone"
+            ]
+        ]
+    },
+    {
+        "text": "Beef kway teow is a dish from the country of Singapore , where the leader is Halimah Yacob and the currency is the Singapore dollar .",
+        "triple_list": [
+            [
+                "teow",
+                "country",
+                "Singapore"
+            ],
+            [
+                "Singapore",
+                "currency",
+                "dollar"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Yacob"
+            ]
+        ]
+    },
+    {
+        "text": "A popular food in Indonesia , Beef kway teow originates from Singapore . The country where Tony Tan is the leader .",
+        "triple_list": [
+            [
+                "teow",
+                "region",
+                "Singapore"
+            ],
+            [
+                "teow",
+                "country",
+                "Indonesia"
+            ],
+            [
+                "Singapore",
+                "leaderName",
+                "Tan"
+            ]
+        ]
+    },
+    {
+        "text": "Bhajji comes from the country of India , where two of the leaders are , T. S. Thakur and Narendra Modi .",
+        "triple_list": [
+            [
+                "Bhajji",
+                "country",
+                "India"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Thakur"
+            ],
+            [
+                "India",
+                "leaderName",
+                "Modi"
+            ]
+        ]
+    },
+    {
+        "text": "Bakso is a dish from the country of Indonesia , where the capital is Jakarta and one of the leaders is Jusuf Kalla .",
+        "triple_list": [
+            [
+                "Indonesia",
+                "capital",
+                "Jakarta"
+            ],
+            [
+                "Indonesia",
+                "leaderName",
+                "Kalla"
+            ],
+            [
+                "Bakso",
+                "country",
+                "Indonesia"
+            ]
+        ]
+    },
+    {
+        "text": "From the Singapore region , Ayam penyet , is a food found in Java where an ethic group is the Baduy .",
+        "triple_list": [
+            [
+                "Java",
+                "ethnicGroup",
+                "Baduy"
+            ],
+            [
+                "penyet",
+                "region",
+                "Singapore"
+            ],
+            [
+                "penyet",
+                "country",
+                "Java"
+            ]
+        ]
+    },
+    {
+        "text": "Acharya Institute of Technology is in Bangalore , India in the state of Karnataka . The school was established in 2000 and its director is Dr. G. P. Prabhukumar . The full address of the school is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore â€ “ 560090 .",
+        "triple_list": [
+            [
+                "Technology",
+                "city",
+                "Bangalore"
+            ],
+            [
+                "Technology",
+                "established",
+                "2000"
+            ],
+            [
+                "Technology",
+                "state",
+                "Karnataka"
+            ]
+        ]
+    },
+    {
+        "text": "The Acharya Institute of Technology in Bangalore , India was established in 2000 . It is affiliated with the Visvesvaraya Technological University . Its president is B.M . Reddy and its directore is Dr. G.P . Prabhukumar .",
+        "triple_list": [
+            [
+                "Technology",
+                "city",
+                "Bangalore"
+            ],
+            [
+                "Technology",
+                "established",
+                "2000"
+            ],
+            [
+                "Technology",
+                "affiliation",
+                "University"
+            ]
+        ]
+    },
+    {
+        "text": "The American Alan Shepard was born on November 18 , 1923 , in New Hampshire . He graduated with an M.A . from NWC in 1957 , and was hired by NASA in 1959 . Shepard died in California .",
+        "triple_list": [
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "Shepard",
+                "birthPlace",
+                "Hampshire"
+            ],
+            [
+                "Shepard",
+                "was selected by NASA",
+                "1959"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Shepard was born on the 18th of November , 1923 in New Hampshire . He graduated from NWC with a M.A . in 1957 and was selected by NASA in 1959 . His death place was California .",
+        "triple_list": [
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "Shepard",
+                "birthPlace",
+                "Hampshire"
+            ],
+            [
+                "Shepard",
+                "was selected by NASA",
+                "1959"
+            ]
+        ]
+    },
+    {
+        "text": "Buzz Aldrin was a fighter pilot who was born in Glen Ridge , New Jersey om January 20th , 1930 . His real name is Edwin E. Aldrin Jr. and after graduating from MIT with a doctorate in Science in 1963 , he became a member of Apollo 11 .",
+        "triple_list": [
+            [
+                "Aldrin",
+                "birthPlace",
+                "Jersey"
+            ],
+            [
+                "Aldrin",
+                "was a crew member of",
+                "11"
+            ],
+            [
+                "Aldrin",
+                "occupation",
+                "pilot"
+            ]
+        ]
+    },
+    {
+        "text": "Buzz Aldrin was born in Glen Ridge New Jersey in 1930 . He graduated from MIT in 1963 and was hired by NASA in the same year . He was a member of the Apollo 11 crew and is now retired .",
+        "triple_list": [
+            [
+                "Aldrin",
+                "birthPlace",
+                "Jersey"
+            ],
+            [
+                "Aldrin",
+                "was selected by NASA",
+                "1963"
+            ],
+            [
+                "Aldrin",
+                "was a crew member of",
+                "11"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born in Dallas as US national and graduated from the University of Texas at Austin . Elliot See has died on the 28th of February 1966 in St Louis .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ],
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ]
+        ]
+    },
+    {
+        "text": "Elliot See was born on 07/23/1927 in Dallas and died in St. Louis . He attended the University of Texas at Austin which is a part of the university of Texas system .",
+        "triple_list": [
+            [
+                "See",
+                "almaMater",
+                "Austin"
+            ],
+            [
+                "See",
+                "birthPlace",
+                "Dallas"
+            ],
+            [
+                "See",
+                "deathPlace",
+                "Louis"
+            ]
+        ]
+    },
+    {
+        "text": "William Anders was born on October 17 , 1933 , in British Hong Kong . He graduated from AFIT in 1962 with an M.S. , and would go on to serve as a fighter pilot , and as a crew member on Apollo 8 . Anders retired on September 1 , 1969 .",
+        "triple_list": [
+            [
+                "Anders",
+                "occupation",
+                "pilot"
+            ],
+            [
+                "Anders",
+                "birthPlace",
+                "Kong"
+            ],
+            [
+                "Anders",
+                "was a crew member of",
+                "8"
+            ]
+        ]
+    },
+    {
+        "text": "The Baku Turkish Martyrs ' Memorial was designed by Huseyin Butuner and Hilmi Guner and is located in Azerbaijan . It is dedicated to the Ottoman Army Soldiers killed in the Battle of Baku . The leader , the Prime Minister of Azerbaijan is Artur Rasizade .",
+        "triple_list": [
+            [
+                "Azerbaijan",
+                "leaderTitle",
+                "Azerbaijan"
+            ],
+            [
+                "Memorial",
+                "location",
+                "Azerbaijan"
+            ],
+            [
+                "Azerbaijan",
+                "leaderName",
+                "Rasizade"
+            ]
+        ]
+    },
+    {
+        "text": "Alan Shepard was born on Nov 18 , 1923 in New Hampshire , USA . He graduated from NWC in 1957 with an M.A . He worked as a test pilot before passing away in California .",
+        "triple_list": [
+            [
+                "Shepard",
+                "deathPlace",
+                "California"
+            ],
+            [
+                "Shepard",
+                "occupation",
+                "pilot"
+            ],
+            [
+                "Shepard",
+                "birthPlace",
+                "Hampshire"
+            ]
+        ]
+    },
+    {
+        "text": "Retired American fighter pilot Buzz Aldrin , also known as Edwin E. Aldrin Jr. , was born in Glen Ridge , New Jersey . He graduated from Massachusetts Institute of Technology in 1963 with a doctorate in Science and was a crew member on Apollo 11 .",
+        "triple_list": [
+            [
+                "Aldrin",
+                "birthPlace",
+                "Jersey"
+            ],
+            [
+                "Aldrin",
+                "was a crew member of",
+                "11"
+            ],
+            [
+                "Aldrin",
+                "occupation",
+                "pilot"
+            ]
+        ]
+    },
+    {
+        "text": "Acharya Institute of Technology in Bangalore , India was established in 2000 and is affiliated with Visvesvaraya Technological University . The school president is B. M. Reddy and its director is Dr. G. P. Prabhukumar . The school 's full address is In Soldevanahalli , Acharya Dr. Sarvapalli Radhakrishnan Road , Hessarghatta Main Road , Bangalore â€ “ 560090 .",
+        "triple_list": [
+            [
+                "Technology",
+                "city",
+                "Bangalore"
+            ],
+            [
+                "Technology",
+                "established",
+                "2000"
+            ],
+            [
+                "Technology",
+                "affiliation",
+                "University"
+            ]
+        ]
+    }
+]

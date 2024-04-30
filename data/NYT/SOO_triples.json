@@ -1,0 +1,607 @@
+[
+    {
+        "text": "But Schaap seems as comfortable in that role as Joe Buck , the Fox baseball and football sportscaster who so clearly benefited from learning beside his father , Jack Buck , the late voice of the St. Louis Cardinals . ''",
+        "triple_list": [
+            [
+                "Buck",
+                "/people/person/children",
+                "Buck"
+            ]
+        ]
+    },
+    {
+        "text": "Cotecna employed Kojo Annan , Kofi Annan 's son , as a contractor at the time it received the aid inspection contract .",
+        "triple_list": [
+            [
+                "Annan",
+                "/people/person/children",
+                "Annan"
+            ]
+        ]
+    },
+    {
+        "text": "Because of an editing error , an article yesterday about the investigation of the fire that destroyed a subway signal relay room in Lower Manhattan on Sunday gave an incorrect spelling in some copies for the name of the Manhattan engineering firm for which William D. Kennedy , a national expert on fire safety codes , is a vice president .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ]
+        ]
+    },
+    {
+        "text": "Elizabeth Smith , a daughter of Maureen A. Smith and William H. Smith , both of Rockaway Beach , Queens , was married on Friday to Kevin Breslin , a son of Jimmy Breslin , the writer and newspaper columnist , of Manhattan and the late Rosemary Breslin .",
+        "triple_list": [
+            [
+                "Beach",
+                "/location/neighborhood/neighborhood_of",
+                "Queens"
+            ],
+            [
+                "Queens",
+                "/location/location/contains",
+                "Beach"
+            ],
+            [
+                "Breslin",
+                "/people/person/place_lived",
+                "Queens"
+            ],
+            [
+                "Breslin",
+                "/people/person/children",
+                "Breslin"
+            ]
+        ]
+    },
+    {
+        "text": "Mr. Wen spent Sunday in Western Australia , the state that provides much of the raw materials Australia exports to China .",
+        "triple_list": [
+            [
+                "Australia",
+                "/location/administrative_division/country",
+                "Australia"
+            ],
+            [
+                "Australia",
+                "/location/location/contains",
+                "Australia"
+            ],
+            [
+                "Australia",
+                "/location/country/administrative_divisions",
+                "Australia"
+            ]
+        ]
+    },
+    {
+        "text": "Australia is scheduled to deliver its first liquid natural gas to China from the North West Shelf gas development in Western Australia in the next several months and is already one of China 's biggest suppliers of iron ore. .",
+        "triple_list": [
+            [
+                "Australia",
+                "/location/location/contains",
+                "Australia"
+            ],
+            [
+                "Australia",
+                "/location/country/administrative_divisions",
+                "Australia"
+            ],
+            [
+                "Australia",
+                "/location/administrative_division/country",
+                "Australia"
+            ]
+        ]
+    },
+    {
+        "text": "When people say about the Muppets , ` It 's a gentle soul with a naughty sense of humor , ' Jerry was just as responsible for that as my dad , '' ' said Brian Henson , Jim Henson 's son , who serves with his sister Lisa as chairman and chief executive of the Jim Henson Company .",
+        "triple_list": [
+            [
+                "Henson",
+                "/people/person/children",
+                "Henson"
+            ]
+        ]
+    },
+    {
+        "text": "Ms. Ludeman regards Michael S. Dell , the computer company 's chairman , as an exemplar of an alpha visionary , and Kevin B. Rollins , Dell 's chief executive , as the consummate alpha executor .",
+        "triple_list": [
+            [
+                "Dell",
+                "/business/person/company",
+                "Dell"
+            ],
+            [
+                "Dell",
+                "/business/company/founders",
+                "Dell"
+            ],
+            [
+                "Rollins",
+                "/business/person/company",
+                "Dell"
+            ]
+        ]
+    },
+    {
+        "text": "While he went to Africa a dozen times , he refused for years to visit South Africa because of its apartheid racial policies .",
+        "triple_list": [
+            [
+                "Africa",
+                "/location/location/contains",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "text": "Central Florida at South Carolina 7:30 p.m. , ESPN The Division I-A college football season gets under way tonight with Steve Spurrier 's return to the college sideline three years after he left Florida to coach the Washington Redskins .",
+        "triple_list": [
+            [
+                "Florida",
+                "/location/location/contains",
+                "Florida"
+            ]
+        ]
+    },
+    {
+        "text": "Edited by John Edwards , with Cate Edwards and Jonathan Prince .",
+        "triple_list": [
+            [
+                "Edwards",
+                "/people/person/children",
+                "Edwards"
+            ]
+        ]
+    },
+    {
+        "text": "It was also the last game for Jeff Bowden , Florida State 's offensive coordinator and Bobby Bowden 's youngest son , who resigned Nov. 14 after the Seminoles were shut out by Wake Forest . ''",
+        "triple_list": [
+            [
+                "Bowden",
+                "/people/person/children",
+                "Bowden"
+            ]
+        ]
+    },
+    {
+        "text": "Florida , which won its first SEC championship since 2000 , has been criticized for narrow victories against Vanderbilt , Georgia , South Carolina and Florida State , and for nonconference wins against Western Carolina and Central Florida .",
+        "triple_list": [
+            [
+                "Florida",
+                "/location/location/contains",
+                "Florida"
+            ]
+        ]
+    },
+    {
+        "text": "Intending to return to New York City , they kept the lease on their Tudor City apartment .",
+        "triple_list": [
+            [
+                "City",
+                "/location/location/contains",
+                "City"
+            ],
+            [
+                "City",
+                "/location/neighborhood/neighborhood_of",
+                "City"
+            ]
+        ]
+    },
+    {
+        "text": "The Campbell story dates to the days before World War II when Sir Malcolm Campbell , Donald Campbell 's father , achieved great fame by setting land and water speed records in Britain and America .",
+        "triple_list": [
+            [
+                "Campbell",
+                "/people/person/children",
+                "Campbell"
+            ]
+        ]
+    },
+    {
+        "text": "Sidney Green , a former N.B.A . player , is the father of point guard Taurean Green .",
+        "triple_list": [
+            [
+                "Green",
+                "/people/person/children",
+                "Green"
+            ]
+        ]
+    },
+    {
+        "text": "Tito Horford , a former N.B.A . player , is the father of Al Horford . ''",
+        "triple_list": [
+            [
+                "Horford",
+                "/people/person/children",
+                "Horford"
+            ]
+        ]
+    },
+    {
+        "text": "George Bush has actually delivered more resources , but Clinton is ten times more popular in Africa , '' said Princeton Lyman , who was American ambassador to South Africa under Mr. Clinton . ''",
+        "triple_list": [
+            [
+                "Africa",
+                "/location/location/contains",
+                "Africa"
+            ]
+        ]
+    },
+    {
+        "text": "Angelina Jolie gave birth in Namibia last month to Shiloh Nouvel Jolie-Pitt , her daughter with Brad Pitt , and the government there shielded the couple from paparazzi , insisting that visiting journalists obtain written permission to cover them .",
+        "triple_list": [
+            [
+                "Pitt",
+                "/people/person/children",
+                "Jolie-Pitt"
+            ],
+            [
+                "Jolie",
+                "/people/person/children",
+                "Jolie-Pitt"
+            ]
+        ]
+    },
+    {
+        "text": "The University of Bologna , established in 1088 , has long been Bologna 's lifeblood .",
+        "triple_list": [
+            [
+                "Bologna",
+                "/location/location/contains",
+                "Bologna"
+            ]
+        ]
+    },
+    {
+        "text": "He was a founder of the Museo de Arte Moderno in San Salvador , as well as founding president of Amigos del Volcan and Friends for El Salvador .",
+        "triple_list": [
+            [
+                "Salvador",
+                "/location/country/capital",
+                "Salvador"
+            ],
+            [
+                "Salvador",
+                "/location/location/contains",
+                "Salvador"
+            ]
+        ]
+    },
+    {
+        "text": "The old Andrew Cuomo did n't seem to go down well with some voters , '' said Norman Adler , the political consultant who worked with Mr. Cuomo on Mario Cuomo 's 1982 campaign .",
+        "triple_list": [
+            [
+                "Cuomo",
+                "/people/person/children",
+                "Cuomo"
+            ]
+        ]
+    },
+    {
+        "text": "The Manhattan chamber handles sewage from much of the Upper East Side and Upper Manhattan , which makes up about a third of the city 's total .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ],
+            [
+                "Side",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Side"
+            ]
+        ]
+    },
+    {
+        "text": "Candice Bergen , in her memoir '' Knock Wood , '' suggests that her father , Edgar Bergen , unconsciously instigated a rivalry between her and her '' brother , '' Charlie McCarthy ; his bedroom was bigger than hers .",
+        "triple_list": [
+            [
+                "Bergen",
+                "/people/person/children",
+                "Bergen"
+            ]
+        ]
+    },
+    {
+        "text": "If there is a place where the rivers of the right converge , it appears to be the office of William Kristol , a Straussian editor and advocate , whose mother -LRB- Gertrude Himmelfarb -RRB- , father -LRB- Irving Kristol -RRB- , philosophy -LRB- neoconservatism -RRB- and magazine -LRB- The Weekly Standard -RRB- all earned separate entries .",
+        "triple_list": [
+            [
+                "Kristol",
+                "/people/person/children",
+                "Kristol"
+            ],
+            [
+                "Himmelfarb",
+                "/people/person/children",
+                "Kristol"
+            ]
+        ]
+    },
+    {
+        "text": "6 Clashes in Sudan At least 14 people have been killed in clashes between supporters of an armed rebel group in eastern Sudan and security forces in Port Sudan , on the Red Sea , the local governor said .",
+        "triple_list": [
+            [
+                "Sudan",
+                "/location/location/contains",
+                "Sea"
+            ],
+            [
+                "Sudan",
+                "/location/country/administrative_divisions",
+                "Sea"
+            ],
+            [
+                "Sudan",
+                "/location/location/contains",
+                "Sudan"
+            ],
+            [
+                "Sea",
+                "/location/administrative_division/country",
+                "Sudan"
+            ],
+            [
+                "Sea",
+                "/location/location/contains",
+                "Sudan"
+            ]
+        ]
+    },
+    {
+        "text": "14 1 THE CHRISTMAS THIEF , by Mary Higgins Clark and Carol Higgins Clark .",
+        "triple_list": [
+            [
+                "Clark",
+                "/people/person/children",
+                "Clark"
+            ]
+        ]
+    },
+    {
+        "text": "Born in Hillside , NJ , August 20 , 1921 , Mr. Straetz was raised in Chicago , IL , and attended the University of Chicago , where he earned a B.S . degree in Chemistry .",
+        "triple_list": [
+            [
+                "Chicago",
+                "/location/location/contains",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "text": "The Beja also pushed for a bigger cut of Sudan 's growing wealth , which is driven by oil exports , and asked for one dollar for every barrel shipped from Port Sudan , which would amount to around $ 150 million each year .",
+        "triple_list": [
+            [
+                "Sudan",
+                "/location/location/contains",
+                "Sudan"
+            ]
+        ]
+    },
+    {
+        "text": "No , I do n't really watch the news , '' said Williams , who left her Palm Beach Gardens home in Florida for New York shortly before Katrina hit South Florida . ''",
+        "triple_list": [
+            [
+                "Florida",
+                "/location/location/contains",
+                "Gardens"
+            ],
+            [
+                "Florida",
+                "/location/location/contains",
+                "Florida"
+            ]
+        ]
+    },
+    {
+        "text": "Chicago Gets Dali 's ` Venus ' After the major Salvador Dali retrospective at the Philadelphia Museum of Art ended in May , an original plaster sculpture that had been on view there went directly to the galleries of the Art Institute of Chicago . ''",
+        "triple_list": [
+            [
+                "Chicago",
+                "/location/location/contains",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "text": "It is Ireland , not Northern Ireland .",
+        "triple_list": [
+            [
+                "Ireland",
+                "/location/location/contains",
+                "Ireland"
+            ]
+        ]
+    },
+    {
+        "text": "Norwalk is eager to avoid reproducing the traffic nightmare on Route 1 in South Norwalk , where there is a heavy concentration of big box stores .",
+        "triple_list": [
+            [
+                "Norwalk",
+                "/location/neighborhood/neighborhood_of",
+                "Norwalk"
+            ],
+            [
+                "Norwalk",
+                "/location/location/contains",
+                "Norwalk"
+            ]
+        ]
+    },
+    {
+        "text": "Duncan was the great-grandson of W.W. Cargill , the founder of Cargill , Incorporated , and the son of John H. MacMillan , Jr. , past Chairman and CEO of the Company .",
+        "triple_list": [
+            [
+                "Cargill",
+                "/business/company/founders",
+                "Cargill"
+            ]
+        ]
+    },
+    {
+        "text": "Ethiopia has sent troops into Somalia in the past to root out suspected militants , and the Ethiopian government has distanced itself from the new Islamist administration in Mogadishu .",
+        "triple_list": [
+            [
+                "Somalia",
+                "/location/country/capital",
+                "Mogadishu"
+            ],
+            [
+                "Somalia",
+                "/location/location/contains",
+                "Mogadishu"
+            ],
+            [
+                "Ethiopian",
+                "/people/ethnicity/geographic_distribution",
+                "Ethiopia"
+            ]
+        ]
+    },
+    {
+        "text": "Donations can be made to the Chicago Jewish Day School , 5959 N. Sheridan Road , Chicago , IL 60660 or University of Chicago ALS Fund , C\\/O Raymond Roos , MD , Department of Neurology , University of Chicago , MC2030 , 5841 S. Maryland Avenue , Chicago , Illinois 60637 .",
+        "triple_list": [
+            [
+                "Illinois",
+                "/location/location/contains",
+                "Chicago"
+            ],
+            [
+                "Chicago",
+                "/location/location/contains",
+                "Chicago"
+            ]
+        ]
+    },
+    {
+        "text": "Florida 's starting point guard , Taurean Green , is the son of Sidney Green , a former U.N.L.V . star , N.B.A . player and Division I head coach .",
+        "triple_list": [
+            [
+                "Green",
+                "/people/person/children",
+                "Green"
+            ]
+        ]
+    },
+    {
+        "text": "Late Saturday night in the RCA Dome , the Florida star Joakim Noah walked with his right arm draped over the shoulder of his father , Yannick Noah .",
+        "triple_list": [
+            [
+                "Noah",
+                "/people/person/children",
+                "Noah"
+            ]
+        ]
+    },
+    {
+        "text": "MUNICIPAL ART SOCIETY Tomorrow at 2 p.m. , Creating Canyons : Origins in Lower Manhattan , architectural tour of Manhattan skyscrapers , meeting at Trinity Church , Broadway and Wall Street .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ]
+        ]
+    },
+    {
+        "text": "DEL POSTO -- The multilevel collaboration between Mario Batali , Joseph Bastianich and Lidia Bastianich has opened .",
+        "triple_list": [
+            [
+                "Bastianich",
+                "/people/person/children",
+                "Bastianich"
+            ]
+        ]
+    },
+    {
+        "text": "ZOMBIES : Max Brooks , the son of Mel Brooks and Anne Bancroft , has the No . 11 book on the fiction list -- it 's called '' World War Z : An Oral History of the Zombie War . ''",
+        "triple_list": [
+            [
+                "Brooks",
+                "/people/person/children",
+                "Brooks"
+            ],
+            [
+                "Bancroft",
+                "/people/person/children",
+                "Brooks"
+            ]
+        ]
+    },
+    {
+        "text": "Ms. Jones , 30 , is accused in Federal District Court in Manhattan of lying to the grand jury and obstructing justice because of the account she gave of a shootout on Feb. 25 , 2001 , in front of the Hot 97 radio station in Lower Manhattan .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ]
+        ]
+    },
+    {
+        "text": "In northern Manhattan , where the Harlem River Drive becomes Franklin D. Roosevelt Drive , we came to a standstill and crawled all the way back to Lower Manhattan with not a word from the computer .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ]
+        ]
+    },
+    {
+        "text": "On Monday , for example , it was widely noticed at the State Department that a new acting assistant secretary of state in charge of the Middle East took up her duties on her first day in office : Elizabeth Cheney , daughter of Vice President Dick Cheney and a longtime advocate of reforms , particularly women 's rights , in the region .",
+        "triple_list": [
+            [
+                "Cheney",
+                "/people/person/children",
+                "Cheney"
+            ]
+        ]
+    },
+    {
+        "text": "Ely Sakhai , the owner of the Exclusive Art gallery in Lower Manhattan , was sentenced yesterday to 41 months in federal prison for fraud , said David N. Kelley , the United States attorney in Manhattan .",
+        "triple_list": [
+            [
+                "Manhattan",
+                "/location/location/contains",
+                "Manhattan"
+            ],
+            [
+                "Manhattan",
+                "/location/neighborhood/neighborhood_of",
+                "Manhattan"
+            ]
+        ]
+    }
+]
